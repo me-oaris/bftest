@@ -6,7 +6,7 @@
                                     ui:Destroy()
                                 end
                                 local Flux = loadstring(game:HttpGet"https://pastebin.com/raw/XLCrin0T")()
-                                local win = Flux:Window("Mythic Hub", "Blox Fruit",_G.Color, Enum.KeyCode.RightControl)
+                                local win = Flux:Window("Oaris Hub", "Blox Fruit",_G.Color, Enum.KeyCode.RightControl)
                                 local tab = win:Tab("AutoFarm⚔️","http://www.roblox.com/asset/?id=4805639000")
                                 local Stats = win:Tab("Stats❤️","http://www.roblox.com/asset/?id=4805639000")
                                 local e = win:Tab("Setting AutoFarm⚙️","http://www.roblox.com/asset/?id=4805639000")
